@@ -6,4 +6,4 @@ Welcome to the GreatFrontEnd Projects platform! Join our [Discord server](https:
 
 This project is a reacreation of "Features Section" page.
 
-<img src='/Users/nickhujarski/Desktop/features-section-grid/designs/Desktop.jpg' alt='An image of a features section page. made into a grid layout where there are multiple about sections. '>
+<img src='designs/Desktop.jpg' alt='An image of a features section page. made into a grid layout where there are multiple about sections. '>
